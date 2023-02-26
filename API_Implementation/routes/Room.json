@@ -1,0 +1,37 @@
+[
+	{
+		"Room": 4,
+		"UserBooked": 27,
+		"Time": 9
+	},
+	{
+		"Room": 3,
+		"UserBooked": 28,
+		"Time": 9
+	},
+	{
+		"Room": 2,
+		"UserBooked": 29,
+		"Time": 9
+	},
+	{
+		"Room": 1,
+		"UserBooked": 20,
+		"Time": 9
+	},
+	{
+		"Room": 2,
+		"UserBooked": 145,
+		"Time": 14
+	},
+	{
+		"Room": 3,
+		"UserBooked": null,
+		"Time": null
+	},
+	{
+		"Room": 1,
+		"UserBooked": 44,
+		"Time": 14
+	}
+]
